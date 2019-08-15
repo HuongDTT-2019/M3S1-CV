@@ -1,0 +1,44 @@
+#wrapper{
+    width: 1100px;
+    margin: 0 auto;
+    font-size: 14px;
+}
+#sidebar{
+    width: 26%;
+    height: 1339.2px;
+    background:#36474F ;
+    float: left;
+    padding: 0 10px;
+    color: #ffffff;
+}
+#main{
+    width: 70%;
+    min-height: 700px;
+    background:#eeeeee;
+    float: left;
+    padding: 10px 10px 0 10px;
+    text-align: justify;
+}
+#sidebar-head{
+    background:#25323A ;
+    padding-bottom: 10px;
+}
+#sidebar-head img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    padding: 40px 75px;
+}
+#sidebar-head h3,#sidebar-head p{
+    text-align: center;
+}
+#sidebar-detail{
+    padding: 20px 0;
+}
+span{
+    text-align: right;
+}
+table tr td{
+    padding: 22px;
+    text-align: left;
+}
